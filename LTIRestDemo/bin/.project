@@ -1,7 +1,6 @@
-@@ -1,31 +0,0 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>LTIRestDemo</name>
+	<name>LTI_WEB_MVC</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -30,4 +29,3 @@
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
 </projectDescription>
-

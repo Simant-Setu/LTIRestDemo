@@ -1,4 +1,4 @@
-package com.lti;
+package src.com.lti;
 
 public class Course {
 	private int courseId;
